@@ -1,6 +1,6 @@
-# <a href="https://www.linkedin.com/in/devonmolina-72/">Devon Molina-Davis</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/devonmolina-72/">Devon Molina-Davis</a>'s Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about technology and love tackling complex challenges through hands-on projects. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -11,6 +11,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Engrossed-Riposte/threat-hunting-scenario)**
+
+## 🧠 AI Prompting Basics
+
+- **[AI Prompting Basics](https://github.com/Engrossed-Riposte/Prompting)**
 
 <hr/>
 
