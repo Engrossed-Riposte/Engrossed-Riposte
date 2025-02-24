@@ -12,9 +12,6 @@ I'm passionate about technology and love tackling complex challenges through han
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Engrossed-Riposte/threat-hunting-scenario)**
 
-## 🧠 AI Prompting Basics
-
-- **[AI Prompting Basics](https://github.com/Engrossed-Riposte/Prompting)**
 
 <hr/>
 
