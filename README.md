@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/devonmolina-72/">Devon Molina-Davis</a>'s Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/devonmolina-72/">Devon Molina-Davis</a> 🔐
 
 I'm passionate about technology and love tackling complex challenges through hands-on projects. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
