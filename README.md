@@ -2,7 +2,7 @@
 
 I'm passionate about technology and love tackling complex challenges through hands-on projects. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## Azure Projects
+## ☁ Azure Projects
 
 - **[Automate Windows Onboarding with Intune](https://github.com/Engrossed-Riposte/Intune-Application-Starter-Pack/)**
 
